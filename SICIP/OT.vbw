@@ -1,0 +1,10 @@
+frmOT = 53, 17, 716, 558, , 0, 0, 0, 0, C
+frmDetalleOT = 539, 9, 1342, 648, , 0, 0, 0, 0, C
+frmLogin = 136, 117, 583, 579, , 0, 0, 0, 0, C
+Module1 = 136, 117, 583, 579, C
+mdlRutinasSQL = 136, 117, 583, 579, 
+mdlConectaSQL = 136, 117, 842, 579, 
+modAPIs = 0, 0, 0, 0, C
+modSpread = 136, 117, 583, 579, 
+modProducto = 0, 0, 0, 0, C
+frmAsignaciondeTrabajos = 234, -9, 1216, 640, , 0, 0, 0, 0, C

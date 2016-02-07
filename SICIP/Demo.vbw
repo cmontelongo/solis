@@ -1,0 +1,12 @@
+frmRequisicion = 5, 127, 1296, 617, CZ, 0, 0, 0, 0, C
+mdlConectaSQL = 0, 0, 840, 637, C
+mdlRutinasSQL = 22, 6, 1145, 484, C
+mdlTranspais = 0, 0, 1057, 425, C
+modSpread = 240, 0, 687, 227, C
+modAPIs = 0, 0, 0, 0, C
+modProducto = 136, 117, 821, 604, C
+frmOT = 42, 143, 489, 603, , 0, 0, 0, 0, C
+Module1 = 136, 117, 583, 579, C
+frmLogin = 603, 75, 1050, 537, C, 0, 0, 0, 0, C
+frmReporte = 136, 117, 583, 579, CZ, 0, 0, 0, 0, C
+frmPartidas = 136, 117, 1129, 579, , 0, 0, 0, 0, C

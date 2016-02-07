@@ -1,0 +1,196 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=E:\SICIP\Package
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+sscrc.dll=
+u2dapp.dll=
+u2fxml.dll=
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+
+[Package|Standard Setup Package 1|Files Added]
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+C:\ValeHerramienta.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\MSRDO20.DLL=Yes
+C:\WINDOWS\system32\RDOCURS.DLL=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.5\crystalreportviewers10\ActiveXControls\crviewer.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\craxdrt.dll=Yes
+C:\WINDOWS\system32\unicows.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=Yes
+C:\Program Files\Business Objects\Common\2.8\bin\crtowords_en.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.5\bin\ufmanager.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.5\bin\u2l2000.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.5\bin\u2lcom.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.5\bin\u2ldts.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.5\bin\u2lexch.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.5\bin\u2lfinra.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.5\bin\u252000.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.5\bin\u25dts.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.5\bin\u25samp1.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.5\bin\sscsdk80.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.5\bin\Implode.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.5\bin\crqe.dll=Yes
+\Program files\common files\Crystal Decisions\2.5\bin\crdb_ado.dll=Yes
+\Program files\common files\Crystal Decisions\2.5\bin\crdb_dao.dll=Yes
+\Program files\common files\Crystal Decisions\2.5\bin\crdb_odbc.dll=Yes
+\Program files\common files\Crystal Decisions\2.5\bin\querybuilder.dll=Yes
+\Program files\common files\Crystal Decisions\2.5\bin\exlate32.dll=Yes
+\Program files\common files\Crystal Decisions\2.5\bin\crxf_rtf.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.5\bin\ExportModeller.dll=Yes
+\Program Files\Common Files\Crystal Decisions\2.5\bin\crtslv.dll=Yes
+\Program files\common files\Crystal Decisions\2.5\bin\crxf_wordw.dll=Yes
+\Program files\common files\Crystal Decisions\2.5\bin\crxf_xls.dll=Yes
+\Program files\common files\Crystal Decisions\2.5\bin\crxf_pdf.dll=Yes
+\Program files\common files\Crystal Decisions\2.5\bin\u2fcr.dll=Yes
+C:\WINDOWS\system32\u2fsepv.dll=Yes
+\Program files\common files\Crystal Decisions\2.5\bin\u2ftext.dll=Yes
+\Program files\common files\Crystal Decisions\2.5\bin\u2ddisk.dll=Yes
+C:\Program Files\Business Objects\Common\2.8\bin\u2dpost.dll=Yes
+\Program files\common files\Crystal Decisions\2.5\bin\keycode.dll=Yes
+\Program files\common files\Crystal Decisions\2.5\bin\crdeploy.reg=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\craxddrt.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\sscdlg.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\CRAnalyzer.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\p2ixbse.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\crdb_dictionary.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\filedialog.dll=Yes
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\sacommoncontrols.dll=Yes
+C:\WINDOWS\system32\comctl32.ocx=Yes
+C:\Program Files\Spread60\Bin\SPR32X60.ocx=Yes
+C:\WINDOWS\system32\mfc42.dll=Yes
+C:\Program Files\Tabpro20\BIN\Tab32x20.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINDOWS\system32\crystl32.ocx=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=Yes
+\Program files\common files\Crystal Decisions\2.5\bin\crdeploy.reg=Register
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+C:\ValeHerramienta.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDOCURS.DLL=$(WinSysPath)
+C:\Program Files\Common Files\Crystal Decisions\2.5\crystalreportviewers10\ActiveXControls\crviewer.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\craxdrt.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+C:\WINDOWS\system32\unicows.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=$(WinSysPath)
+C:\Program Files\Business Objects\Common\2.8\bin\crtowords_en.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+\Program Files\Common Files\Crystal Decisions\2.5\bin\ufmanager.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+\Program Files\Common Files\Crystal Decisions\2.5\bin\u2l2000.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+\Program Files\Common Files\Crystal Decisions\2.5\bin\u2lcom.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+\Program Files\Common Files\Crystal Decisions\2.5\bin\u2ldts.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+\Program Files\Common Files\Crystal Decisions\2.5\bin\u2lexch.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+\Program Files\Common Files\Crystal Decisions\2.5\bin\u2lfinra.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+\Program Files\Common Files\Crystal Decisions\2.5\bin\u252000.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+\Program Files\Common Files\Crystal Decisions\2.5\bin\u25dts.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+\Program Files\Common Files\Crystal Decisions\2.5\bin\u25samp1.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+\Program Files\Common Files\Crystal Decisions\2.5\bin\sscsdk80.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+\Program Files\Common Files\Crystal Decisions\2.5\bin\Implode.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+\Program Files\Common Files\Crystal Decisions\2.5\bin\crqe.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+\Program files\common files\Crystal Decisions\2.5\bin\crdb_ado.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+\Program files\common files\Crystal Decisions\2.5\bin\crdb_dao.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+\Program files\common files\Crystal Decisions\2.5\bin\crdb_odbc.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+\Program files\common files\Crystal Decisions\2.5\bin\querybuilder.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+\Program files\common files\Crystal Decisions\2.5\bin\exlate32.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+\Program files\common files\Crystal Decisions\2.5\bin\crxf_rtf.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+\Program Files\Common Files\Crystal Decisions\2.5\bin\ExportModeller.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+\Program Files\Common Files\Crystal Decisions\2.5\bin\crtslv.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+\Program files\common files\Crystal Decisions\2.5\bin\crxf_wordw.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+\Program files\common files\Crystal Decisions\2.5\bin\crxf_xls.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+\Program files\common files\Crystal Decisions\2.5\bin\crxf_pdf.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+\Program files\common files\Crystal Decisions\2.5\bin\u2fcr.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+C:\WINDOWS\system32\u2fsepv.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+\Program files\common files\Crystal Decisions\2.5\bin\u2ftext.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+\Program files\common files\Crystal Decisions\2.5\bin\u2ddisk.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+C:\Program Files\Business Objects\Common\2.8\bin\u2dpost.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+\Program files\common files\Crystal Decisions\2.5\bin\keycode.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\craxddrt.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\sscdlg.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\CRAnalyzer.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\p2ixbse.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\crdb_dictionary.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\filedialog.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+C:\Program Files\Common Files\Crystal Decisions\2.5\bin\sacommoncontrols.dll=$(CommonFiles)\Crystal Decisions\2.5\bin
+C:\WINDOWS\system32\comctl32.ocx=$(WinSysPath)
+C:\Program Files\Spread60\Bin\SPR32X60.ocx=$(WinSysPath)
+C:\WINDOWS\system32\mfc42.dll=$(WinSysPathSysFile)
+C:\Program Files\Tabpro20\BIN\Tab32x20.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\crystl32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+C:\ValeHerramienta.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=Vale Herramientas
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=SICIP
+PrivateGroup0=0
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|SICIP]
+Icon1=ValeHerramienta.exe
+Title1=Vale Herramientas
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=E:\SICIP\Package
+ProjectFolder=E:\temp\Desarrollo\Desarrollo\SICIP
+ServerSideCab=
+File1=E:\SICIP\Package\setup.exe
+File2=E:\SICIP\Package\Setup.Lst
+File3=E:\SICIP\Package\ValeHerramienta.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
