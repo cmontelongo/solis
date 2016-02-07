@@ -20,7 +20,7 @@ Begin VB.Form frmValeHerramienta
    Begin ComctlLib.Toolbar tlbODT 
       Height          =   396
       Left            =   60
-      TabIndex        =   1
+      TabIndex        =   34
       Top             =   60
       Width           =   13752
       _ExtentX        =   24257
@@ -181,7 +181,7 @@ Begin VB.Form frmValeHerramienta
             Style           =   6
             Alignment       =   1
             AutoSize        =   2
-            TextSave        =   "30/01/2016"
+            TextSave        =   "07/02/2016"
             Key             =   ""
             Object.Tag             =   ""
          EndProperty
@@ -189,7 +189,7 @@ Begin VB.Form frmValeHerramienta
             Style           =   5
             Alignment       =   1
             AutoSize        =   2
-            TextSave        =   "11:47 a.m."
+            TextSave        =   "08:47 a.m."
             Key             =   ""
             Object.Tag             =   ""
          EndProperty
@@ -207,7 +207,7 @@ Begin VB.Form frmValeHerramienta
    Begin TabproLib.vaTabPro TabPrincipal 
       Height          =   8775
       Left            =   120
-      TabIndex        =   2
+      TabIndex        =   35
       Top             =   600
       Width           =   12675
       _Version        =   131072
@@ -251,20 +251,20 @@ Begin VB.Form frmValeHerramienta
          Caption         =   "Generales"
          Height          =   3372
          Left            =   3588
-         TabIndex        =   29
+         TabIndex        =   40
          Top             =   720
          Width           =   8892
          Begin VB.TextBox txtNombre 
             Height          =   315
             Left            =   1560
-            TabIndex        =   34
+            TabIndex        =   5
             Top             =   600
             Width           =   7092
          End
          Begin VB.TextBox txtUsuario 
             Height          =   315
             Left            =   1560
-            TabIndex        =   33
+            TabIndex        =   9
             Text            =   "MIGUEL"
             Top             =   1320
             Width           =   1095
@@ -273,27 +273,27 @@ Begin VB.Form frmValeHerramienta
             Height          =   1392
             Left            =   1560
             MultiLine       =   -1  'True
-            TabIndex        =   32
+            TabIndex        =   11
             Top             =   1800
             Width           =   7092
          End
          Begin VB.TextBox txtVale 
             Height          =   315
             Left            =   1560
-            TabIndex        =   31
+            TabIndex        =   3
             Top             =   240
             Width           =   1095
          End
          Begin MSComCtl2.DTPicker dtpFecha 
             Height          =   315
             Left            =   1560
-            TabIndex        =   30
+            TabIndex        =   7
             Top             =   960
             Width           =   1455
             _ExtentX        =   2561
             _ExtentY        =   550
             _Version        =   393216
-            Format          =   50855937
+            Format          =   71172097
             CurrentDate     =   42306
          End
          Begin VB.Label lblEtiqueta 
@@ -310,7 +310,7 @@ Begin VB.Form frmValeHerramienta
             Height          =   255
             Index           =   2
             Left            =   120
-            TabIndex        =   39
+            TabIndex        =   2
             Top             =   240
             Width           =   1095
          End
@@ -328,7 +328,7 @@ Begin VB.Form frmValeHerramienta
             Height          =   255
             Index           =   8
             Left            =   120
-            TabIndex        =   38
+            TabIndex        =   4
             Top             =   600
             Width           =   1095
          End
@@ -346,7 +346,7 @@ Begin VB.Form frmValeHerramienta
             Height          =   255
             Index           =   9
             Left            =   120
-            TabIndex        =   37
+            TabIndex        =   10
             Top             =   1800
             Width           =   1335
          End
@@ -364,7 +364,7 @@ Begin VB.Form frmValeHerramienta
             Height          =   255
             Index           =   12
             Left            =   120
-            TabIndex        =   36
+            TabIndex        =   6
             Top             =   960
             Width           =   1095
          End
@@ -382,7 +382,7 @@ Begin VB.Form frmValeHerramienta
             Height          =   255
             Index           =   13
             Left            =   120
-            TabIndex        =   35
+            TabIndex        =   8
             Top             =   1320
             Width           =   975
          End
@@ -391,7 +391,7 @@ Begin VB.Form frmValeHerramienta
          Caption         =   "Partidas"
          Height          =   4572
          Left            =   3588
-         TabIndex        =   21
+         TabIndex        =   38
          Top             =   4080
          Width           =   8892
          Begin VB.CommandButton cmdCancelar 
@@ -399,14 +399,14 @@ Begin VB.Form frmValeHerramienta
             Left            =   7560
             Picture         =   "SI041.frx":05A2
             Style           =   1  'Graphical
-            TabIndex        =   28
+            TabIndex        =   14
             Top             =   360
             Width           =   315
          End
          Begin VB.ComboBox cboArticulos 
             Height          =   288
             Left            =   120
-            TabIndex        =   27
+            TabIndex        =   12
             Top             =   360
             Width           =   7452
          End
@@ -415,7 +415,7 @@ Begin VB.Form frmValeHerramienta
             Left            =   8160
             Picture         =   "SI041.frx":095F
             Style           =   1  'Graphical
-            TabIndex        =   25
+            TabIndex        =   15
             Top             =   240
             Visible         =   0   'False
             Width           =   495
@@ -425,21 +425,21 @@ Begin VB.Form frmValeHerramienta
             Left            =   7560
             Picture         =   "SI041.frx":0DA1
             Style           =   1  'Graphical
-            TabIndex        =   24
+            TabIndex        =   13
             Top             =   360
             Width           =   315
          End
          Begin VB.TextBox txtBuscar 
             Height          =   285
             Left            =   120
-            TabIndex        =   23
+            TabIndex        =   39
             Top             =   360
             Width           =   7452
          End
          Begin FPSpread.vaSpread sprPartidas 
             Height          =   3492
             Left            =   120
-            TabIndex        =   26
+            TabIndex        =   16
             Top             =   840
             Width           =   8532
             _Version        =   393216
@@ -463,14 +463,14 @@ Begin VB.Form frmValeHerramienta
          Enabled         =   0   'False
          Height          =   8052
          Left            =   -24491
-         TabIndex        =   3
+         TabIndex        =   36
          Top             =   -20651
          Width           =   12372
          Begin VB.TextBox txtValeAlmacenNumero 
             Enabled         =   0   'False
             Height          =   315
             Left            =   1560
-            TabIndex        =   4
+            TabIndex        =   18
             Top             =   240
             Width           =   1452
          End
@@ -479,7 +479,7 @@ Begin VB.Form frmValeHerramienta
             Height          =   1275
             Left            =   1560
             MultiLine       =   -1  'True
-            TabIndex        =   8
+            TabIndex        =   26
             Top             =   1800
             Width           =   10572
          End
@@ -487,7 +487,7 @@ Begin VB.Form frmValeHerramienta
             Enabled         =   0   'False
             Height          =   315
             Left            =   1560
-            TabIndex        =   7
+            TabIndex        =   24
             Text            =   "MIGUEL"
             Top             =   1320
             Width           =   1452
@@ -496,7 +496,7 @@ Begin VB.Form frmValeHerramienta
             Enabled         =   0   'False
             Height          =   315
             Left            =   1560
-            TabIndex        =   5
+            TabIndex        =   20
             Top             =   600
             Width           =   10572
          End
@@ -515,7 +515,7 @@ Begin VB.Form frmValeHerramienta
             Height          =   972
             Index           =   0
             Left            =   120
-            TabIndex        =   9
+            TabIndex        =   37
             Top             =   3240
             Width           =   12096
             Begin VB.OptionButton optSalida 
@@ -523,7 +523,7 @@ Begin VB.Form frmValeHerramienta
                Height          =   255
                Index           =   1
                Left            =   120
-               TabIndex        =   12
+               TabIndex        =   28
                Tag             =   "30"
                Top             =   600
                Width           =   2475
@@ -533,7 +533,7 @@ Begin VB.Form frmValeHerramienta
                Height          =   255
                Index           =   3
                Left            =   3360
-               TabIndex        =   16
+               TabIndex        =   30
                Tag             =   "23"
                Top             =   600
                Width           =   2490
@@ -543,7 +543,7 @@ Begin VB.Form frmValeHerramienta
                Height          =   255
                Index           =   2
                Left            =   3360
-               TabIndex        =   14
+               TabIndex        =   29
                Tag             =   "20"
                Top             =   240
                Width           =   2610
@@ -553,7 +553,7 @@ Begin VB.Form frmValeHerramienta
                Height          =   255
                Index           =   0
                Left            =   120
-               TabIndex        =   10
+               TabIndex        =   27
                Tag             =   "21"
                Top             =   200
                Width           =   2295
@@ -562,7 +562,7 @@ Begin VB.Form frmValeHerramienta
                Height          =   288
                Index           =   0
                Left            =   6000
-               TabIndex        =   20
+               TabIndex        =   32
                Text            =   "Seleccionar Proyecto"
                Top             =   600
                Visible         =   0   'False
@@ -572,7 +572,7 @@ Begin VB.Form frmValeHerramienta
                Height          =   288
                Index           =   0
                Left            =   6000
-               TabIndex        =   18
+               TabIndex        =   31
                Text            =   "cboAlmacen"
                Top             =   240
                Visible         =   0   'False
@@ -591,20 +591,20 @@ Begin VB.Form frmValeHerramienta
             EndProperty
             Height          =   315
             Left            =   1560
-            TabIndex        =   6
+            TabIndex        =   22
             Top             =   960
             Width           =   1455
             _ExtentX        =   2561
             _ExtentY        =   550
             _Version        =   393216
             Enabled         =   0   'False
-            Format          =   50855937
+            Format          =   71172097
             CurrentDate     =   42306
          End
          Begin FPSpread.vaSpread sprValeAlmacenDetalle 
             Height          =   3492
             Left            =   120
-            TabIndex        =   22
+            TabIndex        =   33
             Top             =   4440
             Width           =   12132
             _Version        =   393216
@@ -647,7 +647,7 @@ Begin VB.Form frmValeHerramienta
             Height          =   255
             Index           =   0
             Left            =   120
-            TabIndex        =   19
+            TabIndex        =   23
             Top             =   1320
             Width           =   975
          End
@@ -665,7 +665,7 @@ Begin VB.Form frmValeHerramienta
             Height          =   255
             Index           =   1
             Left            =   120
-            TabIndex        =   17
+            TabIndex        =   21
             Top             =   960
             Width           =   1095
          End
@@ -683,7 +683,7 @@ Begin VB.Form frmValeHerramienta
             Height          =   255
             Index           =   3
             Left            =   120
-            TabIndex        =   15
+            TabIndex        =   25
             Top             =   1800
             Width           =   1335
          End
@@ -701,7 +701,7 @@ Begin VB.Form frmValeHerramienta
             Height          =   255
             Index           =   4
             Left            =   120
-            TabIndex        =   13
+            TabIndex        =   19
             Top             =   600
             Width           =   1095
          End
@@ -719,7 +719,7 @@ Begin VB.Form frmValeHerramienta
             Height          =   255
             Index           =   5
             Left            =   120
-            TabIndex        =   11
+            TabIndex        =   17
             Top             =   240
             Width           =   1095
          End
@@ -727,7 +727,7 @@ Begin VB.Form frmValeHerramienta
       Begin ComctlLib.TreeView treeview1 
          Height          =   7872
          Left            =   108
-         TabIndex        =   40
+         TabIndex        =   1
          Top             =   720
          Width           =   3312
          _ExtentX        =   5842
@@ -1411,6 +1411,8 @@ Select Case TabPrincipal.ActiveTab
             ",@Observaciones='" & txtObservaciones & "'" & _
             ",@XML=" & strSQL & ",@XML2=" & strSQL2 & ",@XML3=" & strSQL3
     
+        InicializaCampos False
+    
     Case TABVALEALMACEN
         If txtValeAlmacenNumero.Text = "" Then
             strVale = "NULL"
@@ -1751,13 +1753,13 @@ Private Sub InicializaCampos(bolEnabled As Boolean)
     
     Select Case TabPrincipal.ActiveTab
         Case TABVALEHERRAMIENTAS
-            fraCotizacion.Visible = True
-            fraPartidas.Visible = True
-            txtVale.Enabled = True
-            txtNombre.Enabled = True
-            dtpFecha.Enabled = True
-            txtUsuario.Enabled = True
-            txtObservaciones.Enabled = True
+            'fraCotizacion.Visible = bolEnabled
+            'fraPartidas.Visible = bolEnabled
+            txtVale.Enabled = bolEnabled
+            txtNombre.Enabled = bolEnabled
+            dtpFecha.Enabled = bolEnabled
+            txtUsuario.Enabled = bolEnabled
+            txtObservaciones.Enabled = bolEnabled
             
             txtVale.Text = ""
             txtNombre.Text = ""
@@ -1768,8 +1770,8 @@ Private Sub InicializaCampos(bolEnabled As Boolean)
             'LimpiaBloque sprPartidas, 1, 1, sprPartidas.MaxRows, sprPartidas.MaxCols
             sprPartidas.MaxRows = 0
             
-            txtBuscar.Visible = True
-            cmdBuscarMecanico.Visible = True
+            txtBuscar.Visible = bolEnabled
+            cmdBuscarMecanico.Visible = bolEnabled
 
         Case TABVALEALMACEN
             txtValeAlmacenNumero.Text = ""
@@ -2141,7 +2143,9 @@ Select Case Button.Key
         End
 
 End Select
-ActualizaTree
+
+If TabPrincipal.ActiveTab = 0 Then ActualizaTree
+
 Screen.MousePointer = vbDefault
 
 Exit Sub
@@ -2199,17 +2203,23 @@ End Sub
 Private Sub txtBuscar_KeyPress(KeyAscii As Integer)
 If KeyAscii = vbKeyReturn Then cmdBuscarMecanico_Click
 End Sub
-Private Sub txtNombre_Change()
-If mblnAlta Then Exit Sub
-mblnEdicion = True
-ToolBar_EstadoCambio tlbODT
-End Sub
 
+Private Sub txtNombre_Change()
+    cambiaModoEdicion
+End Sub
 
 Private Sub txtObservaciones_Change()
-If mblnAlta Then Exit Sub
-mblnEdicion = True
-ToolBar_EstadoCambio tlbODT
+    cambiaModoEdicion
 End Sub
 
 
+Private Sub cambiaModoEdicion()
+    If mblnAlta Then Exit Sub
+    
+    sprPartidas.EditModePermanent = True
+    sprPartidas.EditMode = True
+    sprPartidas.ReDraw = True
+    mblnEdicion = True
+    ToolBar_EstadoCambio tlbODT
+
+End Sub

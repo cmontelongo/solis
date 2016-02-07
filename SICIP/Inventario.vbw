@@ -1,9 +1,9 @@
 mdlConectaSQL = 243, 525, 1470, 1166, C
-mdlRutinasSQL = 26, 362, 1253, 1003, 
-modSpread = 54, 70, 1375, 659, C
+mdlRutinasSQL = 75, 297, 1302, 938, 
+modSpread = 54, 70, 1375, 659, 
 modProducto = 173, 0, 858, 267, C
 Module1 = 136, 117, 976, 579, C
 frmLogin = 59, 0, 506, 267, C, 216, 280, 1443, 922, C
-frmValeHerramienta = -3, 8, 1256, 639, Z, 410, 230, 1546, 1172, C
+frmValeHerramienta = 2, 3, 1432, 920, , 418, 255, 1548, 1188, C
 frmReporte = 42, 117, 489, 579, C, 189, 245, 1416, 886, CZ
 frmRptVales = 286, 0, 1397, 847, , 162, 210, 1389, 851, C

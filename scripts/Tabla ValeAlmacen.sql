@@ -96,9 +96,9 @@ GO
 
 /*********************************************************************************************/
 /****** Object:  View [dbo].[vw_ValeAlmacen]    Script Date: 01/26/2016 13:33:27 ******/
-IF  EXISTS (SELECT * FROM sys.views WHERE object_id = OBJECT_ID(N'[dbo].[vw_ValeAlmacen]'))
-DROP VIEW [dbo].[vw_ValeAlmacen]
-GO
+--IF  EXISTS (SELECT * FROM sys.views WHERE object_id = OBJECT_ID(N'[dbo].[vw_ValeAlmacen]'))
+--DROP VIEW [dbo].[vw_ValeAlmacen]
+--GO
 /*********************************************************************************************/
 /****** Object:  View [dbo].[vw_ValeHerramienta]    Script Date: 01/25/2016 14:39:05 ****** /
 CREATE VIEW [dbo].[vw_ValeAlmacen] AS
