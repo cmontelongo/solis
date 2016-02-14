@@ -1,0 +1,26 @@
+Salida Almacen
+buscar el grid como se hace en salida de herramienta.
+se quita columna precio
+
+
+salida herramienta
+se confirma que se regresa todo el vale y se actualizan los valores en pendientes por regresar a la cantidad prestada
+o verificar cuantos estan regresando
+agregar columna al grid para mostrar la diferencia del material pendiente por entregar
+
+agregar pantalla modal donde se capturen las cantidades de cada herramienta devuelta
+
+
+
+Proyecto Visual: OT (Demo.vbp)
+Adolfo:
+Autorizacion de ordenes de trabajo
+de cada partida, de cada en proceso y avance
+de cada orden autorizada del cliente, se le debe asignar a un proveedor y cuanto se negocia.
+En la cotizacion debe mostrarse lo que voy a cobrar por el proyecto. (grid partidas, columna precio)
+Carlos/Adolfo asignan Contratista y monto
+Adolfo actualiza la estimacion de avance
+Carlos debe ver cada proyecto cual es el avance de cada uno
+
+
+
